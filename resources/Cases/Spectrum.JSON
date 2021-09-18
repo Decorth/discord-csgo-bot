@@ -1,0 +1,78 @@
+{
+	"Blue": [
+		{
+			"Gun" : "PP-Bizon",
+			"Pattern" : "Jungle Slipstream"
+		},
+		{
+			"Gun" : "SCAR-20",
+			"Pattern" : "Blueprint"
+		},
+		{
+			"Gun" : "Desert Eagle",
+			"Pattern" : "Oxide Blaze"
+		},
+		{
+			"Gun" : "Five-Seven",
+			"Pattern" : "Capillary"
+		},
+		{
+			"Gun" : "MP7",
+			"Pattern" : "Akoben"
+		},
+		{
+			"Gun" : "P250",
+			"Pattern" : "Ripple"
+		},
+		{
+			"Gun" : "Sawed-Off",
+			"Pattern" : "Zander"
+		}
+	],
+	"Purple": [
+		{
+			"Gun" : "Galil AR",
+			"Pattern" : "Crimson Tsunami"
+		},
+		{
+			"Gun" : "M249",
+			"Pattern" : "Emerald Poison Dart"
+		},
+		{
+			"Gun" : "MAC-10",
+			"Pattern" : "Last Dive"
+		},
+		{
+			"Gun" : "UMP-45",
+			"Pattern" : "Scaffold"
+		},
+		{
+			"Gun" : "XM1014",
+			"Pattern" : "Seasons"
+		}
+	],
+	"Pink" : [
+		{
+			"Gun" : "AWP",
+			"Pattern" : "Fever Dream"
+		},
+		{
+			"Gun" : "CZ75-Auto",
+			"Pattern" : "Xiangliu"
+		},
+		{
+			"Gun" : "M4A1-S",
+			"Pattern" : "Decimator"
+		}
+	],
+	"Red" : [
+		{
+			"Gun" : "AK-47",
+			"Pattern" : "Bloodsport"
+		},
+		{
+			"Gun" : "USP-S",
+			"Pattern" : "Neo-Noir"
+		}
+	]
+}
