@@ -5,6 +5,7 @@ from Classes import Smoke
 from Classes import RequestHandler
 
 COMMAND_SYMBOL = "$"
+DISCORD_TOKEN = "Nzk3MzEzOTkxNjc5ODAzNDQz.X_kqhA.v_VUZ03PVJGa1goRDb9JPdYL19I"
 
 client = discord.Client()
 
@@ -36,4 +37,4 @@ async def on_message(message):
         smoke = Smoke.Smoke(handler.buildRequestWithEnd(1, 2), handler.buildRequest(2))
         await message.channel.send(files=smoke.getSmoke())
 
-client.run('Nzk3MzEzOTkxNjc5ODAzNDQz.X_kqhA.v_VUZ03PVJGa1goRDb9JPdYL19I')
+client.run(DISCORD_TOKEN)
