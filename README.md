@@ -1,5 +1,6 @@
 # discord-csgo-bot
 This bot posts requested smoke throws in discord chat channel and simulates case openings
+Discord token is old. Won't work anymore you need to generate your own to use for this bot.
 
 Add commands for the bot to process in `./resources/lists/commands.JSON`
 
